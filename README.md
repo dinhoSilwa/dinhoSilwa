@@ -1,4 +1,4 @@
-## Olá, meu nome é Dinho Silva!
+## Olá, meu nome é Claudio Silva!
  ### ⚙️ GitHub Analytics
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dinhosilwa&theme=dark&hide_border=false&include_all_commits=true)
