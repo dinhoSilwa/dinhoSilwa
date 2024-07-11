@@ -1,3 +1,5 @@
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 # 💫 Sobre Mim:
 Eu sou de Fortaleza - CE, curso Análise e Desenvolvimento de Sistemas na Faculdade Unitese. Com mais de três anos como Programador Front-End, busco constantemente aprimorar interfaces dinâmicas para melhorar a experiência dos usuários.<br>Possuo habilidades destacadas na codificação de produtos, sou criativo, orientado a resultados e sempre busco aprimorar a experiência dos usuários e clientes.
 
@@ -11,9 +13,6 @@ Eu sou de Fortaleza - CE, curso Análise e Desenvolvimento de Sistemas na Faculd
 ![](https://github-readme-stats.vercel.app/api?username=dinhoSilwa&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dinhoSilwa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhoSilwa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Citação Aleatória de Dev
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Repositório Mais Contribuído
 ![](https://github-contributor-stats.vercel.app/api?username=dinhoSilwa&limit=5&theme=dark&combine_all_yearly_contributions=true)
