@@ -1,7 +1,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 💫 Sobre Mim:
-Eu sou de Fortaleza - CE, curso Análise e Desenvolvimento de Sistemas na Faculdade Unitese. Com mais de três anos como Programador Front-End, busco constantemente aprimorar interfaces dinâmicas para melhorar a experiência dos usuários.<br>Possuo habilidades destacadas na codificação de produtos, sou criativo, orientado a resultados e sempre busco aprimorar a experiência dos usuários e clientes.
+Eu sou de Fortaleza - CE, curso Análise e Desenvolvimento de Sistemas na Faculdade Estacio. Com mais de três anos como Programador Front-End, busco constantemente aprimorar interfaces dinâmicas para melhorar a experiência dos usuários.<br>Possuo habilidades destacadas na codificação de produtos, sou criativo, orientado a resultados e sempre busco aprimorar a experiência dos usuários e clientes.
 
 ## 🌐 Sociais:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/claudiosil50ea) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dinhosilwa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cl%C3%A1udio-silva-46a3602a6/) 
